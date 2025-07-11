@@ -1,5 +1,3 @@
-# hf_advanced_nodes.py
-
 import numpy as np
 import torch
 from PIL import Image, ImageDraw, ImageFont
